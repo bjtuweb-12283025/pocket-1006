@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">pocket</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="hello">GestureAppProtect</string>
+    <string name="ok">确定</string>
+    <string name="cancel">返回</string>
+    <string name="exit">退出</string>
+    <string name="cancel1">取消</string>
+    <string name="Itemabout">友情提示</string>
+    <string name="Itemsettings">显示设置</string>
+    <string name="toasttile">友情提示</string>
+    <string name="inputpasswd">此程序需要密码才能打开</string>
+    <string name="protecton">应用程序保护(开)</string>
+	 <string name="protectoff">应用程序保护(关)</string>
+    <string name="setpaswd">更改手势密码</string>
+    <string name="setpaswdtitle">请输入新的手势密码</string>
+    <string name="confirmpaswdtitle">确认手势密码</string>  
+    <string name="texttitle">由于您是第一次进入本程序，请输入一个手势(文字或符号)作为保护应用程序的初始密码，如果需要更改密码，进入程序后请在“更改手势密码”中完成。</string>      
+    <string name="info">手势解锁程序条件\n(1)解锁手势的笔迹、笔画总数应和密码手势的一致;\n(2)解锁手势的笔画总长度与密码手势的误差应该小于20%。\n注意：以上条件任何一个不满足都不能解锁。</string>
+    <string name="welcomeyou">WELCOME，第一次进入本程序需要设置初始手势密码</string>
+    <string name="setpaswdsuccess">手势密码设置成功</string>
+    <string name="paswdright">手势密码正确</string>
+    <string name="paswdwrong">手势密码错误</string>   
+    <string name="paswdright1">密码保护问题答案正确</string>
+    <string name="paswdwrong1">密码保护问题答案错误</string>      
+    <string name="forgetpaswdtext">请输入您的密码保护问题(当忘记手势密码时可以通过它进入本程序)</string> 
+    <string name="forgetpaswdans">请输入您的密码保护问题答案</string> 
+    <string name="forgetpaswdtitle">忘记手势？设置密码保护</string> 
+    <string name="waittitle">请等待...</string> 
+    <string name="wait">请稍候，系统正在完成初始化...</string> 
+	 <string name="setforgetpaswdsuccess">密码保护设置成功</string>	
+	 <string name="findpaswd">忘记密码</string>	
+    <string name="forgetpaswdtext1">密码保护问题</string> 
+    <string name="forgetpaswdans1">请输入密码保护问题答案</string> 	
+    <string name="forgetpaswdtitle1">通过密码保护进入程序</string>      
+    <string name="noforgetpaswd1">您还没有设置密码保护</string> 
+    <string name="noforgetpaswd2">点击确定直接进入程序</string> 	 	
+    <string name="exitinfo">您确定要退出吗？</string> 
+    <string name="exittitle">系统提示</string> 
+    <string name="choosedayornight">请选择界面布局风格</string> 
+    <string name="chooseday">白天风格</string> 
+    <string name="choosenight">夜晚风格</string> 
+    <string name="customstyle">主界面风格选择</string>  
+    <string name="item1">设置密码保护</string>  
+  	 <string name="item2">友情提示</string>  
+</resources>
